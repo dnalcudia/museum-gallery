@@ -71,16 +71,16 @@ body main {
   background-repeat: no-repeat;
 }
 .container .box:nth-child(1) {
-  background-image: url(/img/pz1.jpg);
+  background-image: url(img/pz1.jpg);
 }
 .container .box:nth-child(2) {
-  background-image: url(/img/pz2.jpg);
+  background-image: url(img/pz2.jpg);
 }
 .container .box:nth-child(3) {
-  background-image: url(/img/pz3.jpg);
+  background-image: url(img/pz3.jpg);
 }
 .container .box:nth-child(4) {
-  background-image: url(/img/pz4.jpg);
+  background-image: url(img/pz4.jpg);
 }
 .container .box:hover::before,
 .container .box:hover::after {
